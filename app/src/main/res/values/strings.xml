@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto5</string>
+    <string name="textView_TuEleccion">Tu Eleccion</string>
+    <string name="textView_Computadora">Computadora</string>
+    <string name="im_TuEleccion_Description">Eleccion jugador</string>
+    <string name="iv_Computadora_Description">Eleccion computadora (random)</string>
+    <string name="Button_Rock_Description">Boton eleccion Roca</string>
+    <string name="Button_Paper_Description">Boton eleccion papel</string>
+    <string name="Button_Scissors_Description">Boton eleccion tijera</string>
+    <string name="winner_draw_title">Winner or Draw</string>
+    <string name="b_play_again">Volver a jugar</string>
+    <string name="ActivityHistory_label">Historico</string>
+    <string name="button_clear_history">Borrar Historico</string>
+    <string name="clear_history_confirmation">Confirmar borrado historico</string>
+    <string name="confirm_button_label">Confirmar</string>
+</resources>
